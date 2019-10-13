@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shaegeido.sober-living-reseda.com/sitemap.xml
